@@ -122,5 +122,5 @@ This project strengthened my understanding of JavaScript fundamentals, DOM manip
 
 Frontend Developer passionate about creating interactive and responsive web applications.
 
-GitHub: github.com/salmaashour099-debug
+GitHub: [https://github.com/salmaashour099-debug](https://github.com/salmaashour099-debug)
 
