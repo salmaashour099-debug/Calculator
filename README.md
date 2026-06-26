@@ -94,11 +94,7 @@ The equals (=) button evaluates the expression and displays the result.
 
 ### Calculator Interface
 
-Add a screenshot of the calculator here.
-
-### Mobile Responsive View
-
-Add a screenshot of the mobile version here.
+<img width="1005" height="911" alt="image" src="https://github.com/user-attachments/assets/44031d1b-a2f4-49a7-b44d-ab75d4d76b26" />
 
 ---
 
