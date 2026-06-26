@@ -4,8 +4,8 @@ A responsive calculator web application built using HTML, CSS, and JavaScript th
 
 ## 🚀 Live Demo
 
-https://salmaashour099-debug.github.io/Calculator-app/
-
+[https://salmaashour099-debug.github.io/Calculator-app/
+](https://salmaashour099-debug.github.io/Calculator/)
 ---
 
 ## 📋 Features
